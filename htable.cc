@@ -4,6 +4,20 @@
 #define N2 26  // num of upper-case letters
 
 //Header
+//***************************************************************************
+//
+// Name: Victoria Torres
+// ZId:  Z2043396 
+// CSCI 340 PE1
+// Assignment: Separate Chaining Hashtable
+// Desc: This program uses hash tables with separate chaining to store and search
+// inventory items, while using pointers to display in alphabetical order.
+// Due Date: 11/17/2026
+// I certify that this is my own work and, where appropriate, an extension
+// Of the starter code provided for the assignment.
+//
+//***************************************************************************
+
 
 // Hash function, you may NOT modify this function
 int HT::hash(const string &s) 
